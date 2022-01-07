@@ -1,0 +1,26 @@
+.blog{
+    background-color: lightskyblue;
+    border : 1px solid rgb(209, 47, 141);
+    border-left: 50px solid red;
+    border-radius: 15px;
+    margin: 20px 10px 10px 300px;
+    padding: 20px 10px 30px 25px;
+    width: 50%;
+ }
+ .blog-title{
+     text-align: center;
+     font-size: 2em;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .blog p{
+     color: rgb(139, 0, 0);
+     text-align: justify;
+     font-weight: 10;
+ }
+ .vitor{
+     color: rgb(223, 11, 152);
+ }
+ .line h1 {
+     background-color: rgb(216, 37, 37);
+     display: inline;
+ }
